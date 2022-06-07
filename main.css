@@ -1,0 +1,21 @@
+body {
+    background-image: url("http://www.noaa.gov/sites/default/files/styles/landscape_width_650/public/legacy/image/2019/Jun/iStock-477110708%20%281%29.jpg?itok=qLIDK-SD");
+    height: 750px;
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+  }
+
+  .navbar {
+    max-height: 50px;
+  }
+  .navigation .navbar-brand {
+    color: rgb(52, 149, 165);
+    margin-left: 0px;
+    padding: inherit;
+    font-weight: bold;
+    background-color: rgb(255, 255, 255);
+    font-family: cochin;
+  }
+
+  
